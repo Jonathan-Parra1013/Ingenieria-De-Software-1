@@ -1,5 +1,7 @@
 # Ingenieria-De-Software-1
-Martinez Enriquez Brenda Madeleine 
-Miñope Chaves Walter Leonardo 
-Parra Landinez Jonathan 
-Perez Sánchez Cristian Santiago
+
+Los integrantes del proyecto son:
+- Galeano Vargas Juan Enrique
+- Granja Espinosa David Santiago
+- Muñoz Cubides Carol Daniela 
+- Parra Landinez Jonathan
