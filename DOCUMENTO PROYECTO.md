@@ -1,5 +1,10 @@
 # SOFTWARE PARA EL APRENDIZAJE DE LAS MATEMÁTICAS.
 # PROBLEMATICA:
+- La problematica vista para la creacion de este proyecto, es ver el deficiente rendimiento academico de los estudiantes en la materia de Matematicas,
+la dificultad que presentan en la comprension de ciertos temas, y la poca posibilidad de acceso a herramientas de estudio autonomo para cada estudiante
+ya que dentro de la clase hay explicacion pero en ciertos casos, no es tan comprensible para ciertaa cantidad de estudiantes.
+- Lo que buscamos con este proyecto es ayudar en el aprendizaje de cada estudiante de manera interactiva y mas didactica y facil de entender,
+esto genera el entuciasmo en el momento de aprender.
 
 # IDEAS:
 - El software debe ser capaz de poder adaptarse a las capacidades de cualquier personas sin inconvenientes.
@@ -36,9 +41,9 @@ audios y videos auténticos en el tema objetivo.
 adaptando la dificultad y el contenido de acuerdo con su nivel. 
 
 # MARCOS DE REFERENCIA:
--Khan Academy. (22 de julio de 2025). Khan Academy. https://www.khanacademy.org
+- Khan Academy. (22 de julio de 2025). Khan Academy. https://www.khanacademy.org
 Se toma como referencia a Khan Academy, ya que apoya el aprendizaje de las matemáticas mediante lecciones claras, ejercicios prácticos y explicaciones paso a paso, facilitando la
 comprensión de los conceptos y el estudio autónomo.
--Brilliant. (3 de junio de 2025). Brilliant: Learn by doing. https://www.brilliant.org
+- Brilliant. (3 de junio de 2025). Brilliant: Learn by doing. https://www.brilliant.org
 Se puede tomar como una referencia a Brilliant, ya que apoya el aprendizaje de las matemáticas mediante actividades interactivas y la resolución guiada de problemas, lo que
 permite a los estudiantes comprender los conceptos paso a paso y fortalecer su razonamiento lógico.
