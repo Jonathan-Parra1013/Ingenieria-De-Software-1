@@ -2,7 +2,7 @@
 # PROBLEMATICA:
 - La problematica vista para la creacion de este proyecto, es ver el deficiente rendimiento academico de los estudiantes en la materia de Matematicas,
 la dificultad que presentan en la comprension de ciertos temas, y la poca posibilidad de acceso a herramientas de estudio autonomo para cada estudiante
-ya que dentro de la clase hay explicacion pero en ciertos casos, no es tan comprensible para ciertaa cantidad de estudiantes.
+ya que dentro de la clase hay explicacion pero en ciertos casos, no es tan comprensible para cierta cantidad de estudiantes.
 - Lo que buscamos con este proyecto es ayudar en el aprendizaje de cada estudiante de manera interactiva y mas didactica y facil de entender,
 esto genera el entuciasmo en el momento de aprender.
 
