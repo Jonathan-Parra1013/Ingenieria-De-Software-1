@@ -36,9 +36,9 @@ audios y videos auténticos en el tema objetivo.
 adaptando la dificultad y el contenido de acuerdo con su nivel. 
 
 # MARCOS DE REFERENCIA:
--Khan Academy. (s. f.). Khan Academy. https://www.khanacademy.org
+-Khan Academy. (22 de julio de 2025). Khan Academy. https://www.khanacademy.org
 Se toma como referencia a Khan Academy, ya que apoya el aprendizaje de las matemáticas mediante lecciones claras, ejercicios prácticos y explicaciones paso a paso, facilitando la
 comprensión de los conceptos y el estudio autónomo.
--Brilliant.org. (s. f.). Brilliant: Learn by doing. https://www.brilliant.org
+-Brilliant. (3 de junio de 2025). Brilliant: Learn by doing. https://www.brilliant.org
 Se puede tomar como una referencia a Brilliant, ya que apoya el aprendizaje de las matemáticas mediante actividades interactivas y la resolución guiada de problemas, lo que
 permite a los estudiantes comprender los conceptos paso a paso y fortalecer su razonamiento lógico.
