@@ -45,7 +45,7 @@ audios y videos auténticos en el tema objetivo.
 - Personalización: Permitir a los usuarios personalizar su plan de aprendizaje según sus objetivos y preferencias, 
 adaptando la dificultad y el contenido de acuerdo con su nivel.
 
-# REQUISITOS FUNCIONALES
+# REQUERIMENTOS FUNCIONALES
 - Registro de usuarios: El sistema debe permitir que los estudiantes creen una cuenta para acceder a la plataforma.
 
 - Inicio de sesión: Los usuarios deben poder ingresar con sus credenciales para acceder a su progreso.
@@ -64,7 +64,7 @@ adaptando la dificultad y el contenido de acuerdo con su nivel.
 
 - Interfaz de navegación intuitiva: El sistema debe permitir que el usuario navegue fácilmente entre actividades y contenidos, de forma interactiva y que no sature al usuario.
 
-# REQUISITOS NO FUNCIONALES
+# REQUERIMIENTOS NO FUNCIONALES
 - Usabilidad: - La interfaz debe ser intuitiva, clara y fácil de usar.
               - Debe evitar sobrecarga visual para reducir la ansiedad matemática.
               - Debe ser lo más inclusiva posible.
