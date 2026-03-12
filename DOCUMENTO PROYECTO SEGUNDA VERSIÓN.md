@@ -64,4 +64,38 @@ adaptando la dificultad y el contenido de acuerdo con su nivel.
 
 - Interfaz de navegación intuitiva: El sistema debe permitir que el usuario navegue fácilmente entre actividades y contenidos, de forma interactiva y que no sature al usuario.
 
+# REQUISITOS NO FUNCIONALES
+- Usabilidad: - La interfaz debe ser intuitiva, clara y fácil de usar.
+              - Debe evitar sobrecarga visual para reducir la ansiedad matemática.
+              - Debe ser lo más inclusiva posible.
+  
+- Rendimiento: El sistema debe responder rápidamente a las acciones del usuario.
 
+- Disponibilidad: El software debe estar disponible para el acceso de los estudiantes en cualquier momento que lo necesiten.
+
+- Seguridad: - Los datos de los usuarios deben almacenarse de forma segura.
+             - El sistema debe proteger la información personal de los estudiantes.
+
+- Escalabilidad: El sistema debe poder soportar más usuarios en el futuro.
+
+- Compatibilidad: El software debe funcionar en diferentes dispositivos o navegadores
+
+- Accesibilidad: El sistema debe ser accesible para estudiantes de primaria y secundaria con distintos niveles de conocimiento.
+
+- Mantenibilidad: El sistema debe permitir actualizaciones y mejoras sin afectar su funcionamiento.
+
+# INVOLUCRADOS
+- Patrocinador: Universidad Libre Facultad de Ingeniería
+
+- Usuarios finales: Estudiantes entre primaria y secundaria.
+
+- Equipo técnico: - Martinez Enriquez Brenda Madeleine
+                  - Parra Landinez Jonathan
+
+- Seguridad: - Proteger los datos de los usuarios.
+             - Implementar mecanismos de autenticación.
+             - Evitar accesos no autorizados.
+
+- Legal: - Cumplimiento de leyes de protección de datos.
+         - Uso responsable de inteligencia artificial.
+         - Respeto de derechos de autor y licencias del software.
