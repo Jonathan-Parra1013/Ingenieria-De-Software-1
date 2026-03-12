@@ -40,9 +40,28 @@ en función de sus necesidades. Proporcionar un seguimiento del progreso a lo la
 con chatbots o socios de conversación virtual.
 
 - Biblioteca de Recursos: Proporcionar acceso a una amplia biblioteca de recursos, que incluye vocabulario, ejemplos de diálogos, 
-audios y videos auténticos en el tema objetivo. 
+audios y videos auténticos en el tema objetivo.
 
 - Personalización: Permitir a los usuarios personalizar su plan de aprendizaje según sus objetivos y preferencias, 
-adaptando la dificultad y el contenido de acuerdo con su nivel. 
+adaptando la dificultad y el contenido de acuerdo con su nivel.
+
+# REQUISITOS FUNCIONALES
+- Registro de usuarios: El sistema debe permitir que los estudiantes creen una cuenta para acceder a la plataforma.
+
+- Inicio de sesión: Los usuarios deben poder ingresar con sus credenciales para acceder a su progreso.
+
+- Diagnóstico inicial: El sistema debe realizar una evaluación diagnóstica para identificar el nivel del estudiante en matemáticas.
+
+- Tutoría personalizada: El sistema debe proporcionar explicaciones y ayuda personalizada mediante IA (LLM).
+
+- Interacción con el avatar Dax: El sistema debe mostrar un avatar virtual (Dax) que guíe, conforte y ayude al usuario durante el aprendizaje.
+
+- Presentación de ejercicios matemáticos: El sistema debe mostrar ejercicios de matemáticas en el tema en el que vaya el estudiante o quiera, para practicar diferentes temas.
+
+- Retroalimentación inmediata: El sistema debe informar si una respuesta es correcta o incorrecta, con su respectiva explicación de como se hace.
+
+- Seguimiento del progreso: El sistema debe guardar y mostrar el progreso del estudiante (como una racha) y dar pequeños logros como motivación.
+
+- Interfaz de navegación intuitiva: El sistema debe permitir que el usuario navegue fácilmente entre actividades y contenidos, de forma interactiva y que no sature al usuario.
 
 
